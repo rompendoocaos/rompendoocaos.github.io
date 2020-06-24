@@ -5,16 +5,16 @@ ghost:
   url: 
   bio: The professional publishing platform
   picture: assets/images/ghostrider.png
-  facebook: Rompendo-o-Caos-110322534065541
-  twitter: rompendoocaos
+  facebook: rompendoocaos
+  twitter: rompendo_o_caos
   cover: False
 hannah:
   username: sabrina
   name: Sabrina Fragoso Rosseto
   location: Guia de Pacobaíba/Magé - RJ
-  url_full:
+  url_full: https://sabrinafrosseto.github.io
   url: 
-  bio: Sabrina é advogada, pós-graduada em Direito material e processual do Trabalho, apaixonada por sociologia, filosofia, política e democracia.
+  bio: Sabrina é programadora fullstack e advogada, pós-graduada em Direito Material e Processual do Trabalho, apaixonada por sociologia, filosofia, política e democracia.
   picture: assets/images/sabrina.jpg
   facebook: bina.fragoso
   twitter: binafragoso
