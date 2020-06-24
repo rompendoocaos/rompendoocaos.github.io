@@ -12,9 +12,9 @@ baseurl: /
 title: Rompendo o Caos
 description: Política. Sociedade. Estudo. Debate.
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo: assets/images/blog-icon1.png
+logo_dark: assets/images/favicon1.png
+favicon: assets/images/favicon1.png
 CNAME: #add cname for website to be created
 
 # Social info
