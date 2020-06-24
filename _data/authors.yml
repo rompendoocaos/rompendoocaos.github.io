@@ -1,10 +1,10 @@
 ghost:
   username: ghost
   name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
+  url_full: http://rompendoocaos.github.io/
+  url: 
   bio: The professional publishing platform
-  picture: assets/images/author.png
+  picture: assets/images/ghostrider.png
   facebook: Rompendo-o-Caos-110322534065541
   twitter: rompendoocaos
   cover: False
