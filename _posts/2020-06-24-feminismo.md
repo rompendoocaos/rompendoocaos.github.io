@@ -13,7 +13,7 @@ author: sabrina
 
 Abro este post para tratar de um tema essencial e que passa pelos pontos essenciais deste debate. Antes que haja qualquer questionamento a respeito, vale deixar claro: Sou feminista, sim !!!
 
-E é curioso como já foi constrangedor falar isso em outros momentos da vida, porque quando dizemos isso a plenos pulmões alguams pessoas nos vinculam a um esteriótipo patético, que tem como intuito diminuir a luta feminina por igualdade. A mulher feminista não é intolerante, não odeia homens, não necessariamente deixa de se depilar ou qualquer dessas coisas. A mulher feminista luta por igualdade de oportunidades e liberdade para todas as mulheres.
+E é curioso como já foi constrangedor falar isso em outros momentos da vida, porque quando dizemos isso a plenos pulmões algumas pessoas nos vinculam a um esteriótipo patético, que tem como intuito diminuir a luta feminina por igualdade. A mulher feminista não é intolerante, não odeia homens, não necessariamente deixa de se depilar ou qualquer dessas coisas. A mulher feminista luta por igualdade de oportunidades e liberdade para todas as mulheres.
 
 O tema é extremamente complexo e multifacetado, com inúmeros recortes, então, não tenho qualquer pretensão de esgotá-lo em um único post, nem mesmo ao longo de todo o blog. Sempre haverão novos subtemas, novos debates, novas vozes, novas visões e sempre serão bem-vindos. Por ora, eu gostaria de deixar claro para todos que leêm e lerão este blog que eu sou feminista, sim, e sou radical neste aspecto. Mas, o que quero dizer com este radicalismo?
 
