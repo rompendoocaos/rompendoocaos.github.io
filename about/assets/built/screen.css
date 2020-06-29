@@ -1044,7 +1044,9 @@ body {
 .post-full-content blockquote {
 	margin: 0 0 1.5em;
 	padding: 0 1.5em;
-	border-left: 3px solid #3eb0ef;
+	text-align: right;
+	font-size: small;
+	border-left: 3px solid #3c484e;
 }
 .post-full-content blockquote p {
 	margin: 0 0 1em;
@@ -1055,6 +1057,8 @@ body {
 }
 .post-full-content blockquote p:last-child {
 	margin-bottom: 0;
+	text-align: right;
+	font-size: small;
 }
 .post-full-content code {
 	padding: 0 5px 2px;

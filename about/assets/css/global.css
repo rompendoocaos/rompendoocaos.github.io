@@ -382,6 +382,8 @@ dd {
 blockquote {
 	margin: 1.5em 0;
 	padding: 0 1.6em 0 1.6em;
+	text-align: right;
+	font-size: small;
 	border-left: var(--whitegrey) 0.5em solid;
 }
 
@@ -487,6 +489,6 @@ h6 {
 		width: 100%;
 	}
 	blockquote {
-		width: 100%;
+		width: 60%;
 	}
 }
