@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images_posts/mercantilismo.jpg
 navigation: True
-title: Subdesenvolvidos? Porque?
+title: Subdesenvolvidos? Por quê?
 date: 2020-06-29 00:20
 tags: [desenvolvimento]
 class: post-template
